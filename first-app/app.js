@@ -1,3 +1,5 @@
 'use strict';
-
-console.log('Hello world');
+function sayHello(name) {
+    console.log('Hello world ' + name);
+}
+sayHello('Sree');
