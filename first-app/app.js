@@ -2,4 +2,4 @@
 function sayHello(name) {
     console.log('Hello world ' + name);
 }
-sayHello('Sree');
+sayHello('Hi from Node.js');
